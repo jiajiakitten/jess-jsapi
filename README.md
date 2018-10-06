@@ -4,3 +4,4 @@ a componet what is designed to get weixin's access_token,ticket and userinfo  an
 #v1.0.1 整体框架和接口
 
 TODO token缓存
+npm set registry http://registry.npmjs.org
