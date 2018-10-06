@@ -1,0 +1,25 @@
+{
+  "name": "jess-jsapi",
+  "version": "1.0.0",
+  "description": "a componet what is designed to get weixin's access_token,ticket and userinfo  and so on",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiajiakitten/jess-jsapi.git"
+  },
+  "keywords": [
+    "weixin",
+    "access_token",
+    "nodejs",
+    "Jess_miao"
+  ],
+  "author": "Jess_miao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jiajiakitten/jess-jsapi/issues"
+  },
+  "homepage": "https://github.com/jiajiakitten/jess-jsapi#readme"
+}
